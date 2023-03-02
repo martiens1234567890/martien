@@ -26,3 +26,4 @@ console.log (obj0,"job");
 console.log (arr[2]);
 
 
+// wired_trial
